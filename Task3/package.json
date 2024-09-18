@@ -1,0 +1,10 @@
+{
+    "name": "your-project-name",
+    "version": "1.0.0",
+    "type": "module",
+    "dependencies": {
+        "cli-table3": "^0.6.5",
+        "readline-sync": "^1.4.10",
+        "yoctocolors": "^2.1.1"
+    }
+}
